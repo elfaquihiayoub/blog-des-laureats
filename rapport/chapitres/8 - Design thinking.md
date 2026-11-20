@@ -6,7 +6,7 @@ Ainsi, l'adoption de Scrum permet d'assurer une organisation progressive du trav
 
 Le Design Thinking est une approche de résolution de problèmes centrée sur l’humain. Elle vise à comprendre en profondeur les besoins réels des utilisateurs afin de concevoir des solutions innovantes, utiles et adaptées. Cette méthode est largement utilisée dans les domaines du design, de la technologie, de l’éducation et de l’innovation pour répondre à des problématiques complexes.
 
-![Design Thinking](../assets/design_thinking.jpg)
+![Design Thinking](../assets/design_thinking.png)
 
 *Figure : Méthodologie Design Thinking*
 

@@ -4,7 +4,7 @@
 
 La méthodologie Scrum permet de gérer le développement du Blog des Lauréats de manière flexible et progressive. Le projet est découpé en sprints, puis les fonctionnalités sont priorisées, réalisées, vérifiées et intégrées selon les résultats obtenus.
 
-![Méthodologie Scrum](../assets/scrum.png)
+![Méthodologie Scrum](../assets/scrum.jpg)
 
 *Figure 3 : La méthode SCRUM*
 
