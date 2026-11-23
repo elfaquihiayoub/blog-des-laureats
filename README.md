@@ -1,9 +1,7 @@
-# Blog des Lauréats - Projet d'Imitation Niveau 3
+# Blog des Lauréats de l’EFP
 
 ## 1. Description du projet
-Le Blog des Lauréats est une application web conçue pour la communauté de Solicode Tanger.
-Les lauréats peuvent rédiger, publier et administrer leurs articles professionnels.
-Les apprenants actuels de Solicode peuvent consulter et lire ces retours d'expérience. L'application est déployée et accessible en ligne sur Internet.
+Le projet **Blog des Lauréats de l’EFP** est une application web destinée à valoriser les parcours professionnels des lauréats de Solicode Tanger. Elle permet aux lauréats de publier leurs expériences et aux apprenants actuels de consulter ces témoignages.
 
 ---
 
@@ -32,10 +30,12 @@ Ce projet s'appuie sur la méthode par imitation pour guider l'apprenant pas à 
 ---
 
 ## 3. Stack technique et Architecture
-- **Framework Backend** : Laravel 13 (PHP).
-- **Architecture logicielle** : Architecture 3tier ,MVC .
-- **Frontend & Vues** : Gabarits Blade responsives, HTML5, CSS3, JavaScript ,Alpinejs,Tailwaind ,Preline .
+- **Backend** : Laravel.
 - **Base de données** : MySQL.
+- **Frontend** : Tailwind CSS et Preline UI.
+- **Interactions JavaScript** : Alpine.js.
+- **Architecture logicielle** : Architecture 3-tier et MVC.
+- **Vues** : Gabarits Blade responsives avec HTML5, CSS3 et JavaScript.
 - **Modélisation** : Diagramme de contexte et cas d'utilisation avec Mermaid.
 - **Gestion de versions & Outils** : Git et GitHub CLI (`gh`).
 - **Intelligence Artificielle & Automatisation** : Agent Antigravity (Skills natifs et règles Always-On) Github(Skills natifs et règles Always-On).
@@ -65,7 +65,17 @@ Le projet intègre les meilleures pratiques de l'ingénierie logicielle :
 
 ---
 
-## 6. Démarrage rapide
+## 6. Équipe projet et rôles Scrum
+- **Product Owner** : ES-SARRAJ Fouad.
+- **Scrum Master** : El faquihi Ayoub.
+- **Équipe de développement** : El faquihi Ayoub.
+
+### Feuille d’engagement active
+- [Sprint 0 - Feuille d’engagement](./sprints/sprint-0.md)
+
+---
+
+## 7. Démarrage rapide
 
 ### Prérequis
 - Git installé sur votre machine.
