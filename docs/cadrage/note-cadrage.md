@@ -16,15 +16,13 @@ Les anciens apprenants pourront créer un compte. Après vérification manuelle 
 
 ## 2. Objectifs Stratégiques & SMART
 
-| Objectif | Indicateur de réussite | Échéance |
-|---|---|---|
-| Valoriser les parcours des lauréats sur le web. | Tous les articles publiés sont consultables sur la plateforme web. | Avant la livraison web. |
-| Permettre aux anciens apprenants vérifiés de contribuer. | Seuls les comptes vérifiés disposent des droits de publication ; les auteurs peuvent gérer leurs propres articles. | Avant la livraison web. |
-| Assurer la gestion de la plateforme. | Les administrateurs peuvent gérer les articles, les statuts de publication et les comptes. | Avant la livraison web. |
-| Faciliter la lecture sur mobile. | Les articles publiés sont consultables dans l'application mobile, sans fonction de rédaction ni d'administration. | Avant la livraison finale. |
-| Garantir la cohérence et la qualité. | Les contenus affichés sur le web et le mobile sont cohérents ; les fonctionnalités principales passent les tests. | À chaque sprint et avant la livraison finale. |
+La méthode SMART permet de vérifier qu'un objectif est suffisamment clair, quantifiable, réalisable, adapté aux moyens disponibles et limité dans le temps.
 
-*Les échéances précises et la durée des sprints seront confirmées avec le Product Owner.*
+- **Spécifique (S) :** un objectif doit décrire précisément le résultat attendu, les utilisateurs concernés et les actions à réaliser. Pour ce projet, l'objectif est défini autour de la mise à disposition d'une plateforme permettant aux lauréats de publier leurs parcours et aux visiteurs de consulter ces publications.
+- **Mesurable (M) :** un objectif doit comporter des éléments observables permettant d'évaluer sa réalisation. Les preuves retenues seront les fonctionnalités validées, les tests réussis et la disponibilité effective des articles sur les supports concernés.
+- **Atteignable (A) :** un objectif doit rester possible à atteindre avec les compétences, les ressources et le temps disponibles. Le développement sera donc découpé en sprints afin de progresser par étapes et de résoudre les difficultés au fur et à mesure.
+- **Réaliste (R) :** un objectif doit correspondre aux contraintes du projet et aux technologies maîtrisées. Laravel, MySQL, Blade, Tailwind CSS, Preline UI, Alpine.js et NativePHP constituent l'ensemble technique retenu pour concevoir les fonctionnalités prévues.
+- **Temporel (T) :** un objectif doit être associé à une échéance claire. Le projet sera évalué à la fin de chaque sprint, puis une première version complète sera livrée à l'issue du cycle de développement.
 
 ## 3. Matrice de Périmètre
 
@@ -72,4 +70,3 @@ Les anciens apprenants pourront créer un compte. Après vérification manuelle 
 | Publication d'un contenu inapproprié ou non autorisé | Définir des règles de publication et permettre aux administrateurs de modifier, dépublier ou supprimer un article. |
 
 ---
-
